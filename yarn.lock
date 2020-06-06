@@ -3557,6 +3557,10 @@ jest@20.0.4:
   dependencies:
     jest-cli "^20.0.4"
 
+jquery@^3.2.1:
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.1.tgz#d7b4d08e1bfdb86ad2f1a3d039ea17304717abb5"
+
 js-base64@^2.1.9:
   version "2.1.9"
   resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.1.9.tgz#f0e80ae039a4bd654b5f281fc93f04a914a7fcce"
@@ -4902,9 +4906,9 @@ react-dev-utils@^3.0.2:
     strip-ansi "3.0.1"
     text-table "0.2.0"
 
-react-dom@15.6.1:
-  version "15.6.1"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-15.6.1.tgz#2cb0ed4191038e53c209eb3a79a23e2a4cf99470"
+react-dom@^15.6.1:
+  version "15.6.2"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-15.6.2.tgz#41cfadf693b757faf2708443a1d1fd5a02bef730"
   dependencies:
     fbjs "^0.8.9"
     loose-envify "^1.1.0"
@@ -4965,9 +4969,9 @@ react-scripts@1.0.10:
   optionalDependencies:
     fsevents "1.1.2"
 
-react@15.6.1:
-  version "15.6.1"
-  resolved "https://registry.yarnpkg.com/react/-/react-15.6.1.tgz#baa8434ec6780bde997cdc380b79cd33b96393df"
+react@^15.6.1:
+  version "15.6.2"
+  resolved "https://registry.yarnpkg.com/react/-/react-15.6.2.tgz#dba0434ab439cfe82f108f0f511663908179aa72"
   dependencies:
     create-react-class "^15.6.0"
     fbjs "^0.8.9"
@@ -6020,6 +6024,10 @@ uuid@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.1.0.tgz#3dd3d3e790abc24d7b0d3a034ffababe28ebbc04"
 
+uuid@^3.1.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
+
 validate-npm-package-license@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/validate-npm-package-license/-/validate-npm-package-license-3.0.1.tgz#2804babe712ad3379459acfbe24746ab2c303fbc"
@@ -6168,8 +6176,8 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.1.tgz#76899499c184b6ef754377c2dbb0cd6cb55d29e7"
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
 
 whatwg-encoding@^1.0.1:
   version "1.0.1"
